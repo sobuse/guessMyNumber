@@ -32,6 +32,11 @@ main {
   align-items: center;
   justify-content: space-around;
 }
+footer{
+    text-align: center;
+    color: red;
+    padding-bottom: 8px;
+}
 
 .left {
   width: 52rem;
